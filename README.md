@@ -6,14 +6,12 @@
     python -m venv venv
     .\venv\Scripts\activate
     pip install django
-   
-
- cd .\maze_bank\
+    cd .\bedolagy_factory\
     python manage.py runserver
 
 ### продолжить работу
     .\venv\Scripts\activate
-    cd .\maze_bank\
+    cd .\bedolagy_factory\
     python manage.py runserver
 
 
